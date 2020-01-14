@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Game Zone</title>
+		<link rel="stylesheet" type="text/css" href="stile.css" />
+		
+	</head>
+	<body>
+		<div class="container_12 clearfix">
+			<div id="header" class="grid_12">
+				
+				<img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/78293723_634844443920950_391765218566340608_n.jpg?_nc_cat=107&_nc_ohc=pEcEEBe0z50AQkQtoTcmS6q5tIao9PJ-cs2XeaskjGtJJYRuq5_MJc8-Q&_nc_ht=scontent-mxp1-1.xx&oh=5d2e6b6add460e1a0ae0b02a36428e9c&oe=5E408729" alt="the analog specialists" align="center"/>
+				
+				<div id="nav">
+					<ul>
+						<li><a href="#" class="on">HOME</a></li>
+						<li><a href="#">PS4 </a></li>
+						<li><a href="#">Xbox One</a></li>
+						<li><a href="#">PC </a></li>
+						<li><a href="#">Wii U </a></li>
+						<li><a href="#">Prodotti</a></li>
+						<li><a href="#"> <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/cp0/82264146_672525890152805_2027492303383298048_n.jpg?_nc_cat=109&_nc_ohc=bx8EM69mBJUAX9omOBd&_nc_ht=scontent-mxp1-1.xx&oh=ccffd48861f62038452d7a43efe396a0&oe=5EA5D548"  width="30" height="30">  Carrello </a></li> 
+					</ul>
+				</div>
+			</div>
+			
+			<div style="margin: 0 10px; clear: both; padding-top: 2%; padding-bottom: 2%;">
+			<p style="color:#ee2e24; font-size: 21px; padding: 3px; text-align:center; border-bottom: 1px solid #dad3d2;"><b>IN
+				EVIDENZA</b>
+			</p>
+			</div>
+
+			
+
+<!-- Peluche -->
+		<div class="offerFeatureStyle">
+			<div class="promoImg">
+				<a href="/SearchResult/QuickSearch?rootGenre=23&genre=377&TypeSorting=5&sDirection=Ascending" style="text-align:justify!important;">
+					<img
+						src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT-WDjfv28353ZFhdj4R6z3N7J19H28trJj2PbyE_EKQOy9fSWD5lwKHPY06lsjQk5P6FvxA52WxBgeLnW6jOmPXYFWhUUMMAnVqIcotzf5&usqp=CAc" />
+				</a>
+			</div>
+			<div class="promoTxt">
+				<p><strong>Peluche</strong><br>Morbidi e simpatici, tutti da collezionare!</p>
+			</div>
+			<a class="moreButton" href="/SearchResult/QuickSearch?rootGenre=23&genre=377&TypeSorting=5&sDirection=Ascending">
+				<span>Scoprili ora!</span>
+			</a>
+		</div>
+     <div class="footerFooter">
+	         </div>
+			
+			<br>
+			<div id="PS4" class="grid_12">
+			<h1>PS4 </h1>
+				<div class="grid_3">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/815E3QgvjWL._AC_SL1500_.jpg" width="160" height="200" alt="resident evil 2" align="center"/>
+					</a>
+					<p>Resident evil 2 </p>
+					<p>&euro; </p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_3">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/71vyZpPynpL._AC_SL1050_.jpg" width="160" height="200" alt="Battefield: hardline" align="center"/>
+					</a>
+					<p>Batterfield: hardline</p>
+					<p>&euro; </p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_3">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/81mv9u9Ue9L._AC_SL1500_.jpg" width="160" height="200" alt="Devil may cry" align="center"/>
+					</a>
+					<p> Devil may cry </p>
+					<p>&euro;</p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_2">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/81TYwxDpw5L._AC_SL1500_.jpg" width="160" height="200" alt="Bloodborne" align="center"/>
+					</a>
+					<p> Bloodborne </p>
+					<p>&euro;</p>				
+					<a href="#">
+					<button>aggiungi al carrello</button></a>
+				</div>
+			</div>
+			
+			
+			<div id="xbox" class="grid_12">
+			<br>
+			<br>
+			<h1>Xbox One </h1>
+				<div class="grid_3">
+					<a href= "#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/71slieuuKFL._AC_SL1479_.jpg" width="160" height="200" alt="Far Cry" align="center"/>
+					</a>
+					<p>Far Cry </p>
+					<p>&euro; </p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_3">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/91I8VPSP0QL._AC_SL1500_.jpg " width="160" height="200" alt="the Witcher 3" align="center"/>
+					</a>
+					<p>The Witcher 3: Wild Hunt</p>
+					<p>&euro; </p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_3">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/51yWdqSQ8xL._AC_.jpg" width="160" height="200" alt="Batman" align="center"/>
+					<p> Batman: Arkham Knight </p>
+					<p>&euro;</p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_2">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/81fX-TolieL._AC_SL1500_.jpg " width="160" height="200" alt="forza motorsport 6" align="center"/>
+					<p> Forza Motorsport 6 </p>
+					<p>&euro;</p>				
+					<a href="#">
+					<button>aggiungi al carrello</button></a>
+				</div>
+			</div>
+			<div id="pc" class="grid_12">
+			<br>
+			<br>
+			<h1>PC </h1>
+				<div class="grid_3">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/91Vk1mS1x3L._AC_.png" width="160" height="200" alt="Minecraft" align="center"/>
+					</a>
+					<p>Minecraft </p>
+					<p>&euro; </p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_3">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/81XQpkKd2wL._AC_SL1500_.jpg" width="160" height="200" alt="gta" align="center"/>
+					</a>
+					<p>GTA 5</p>
+					<p>&euro; </p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_3">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/71XRjpG98PL._AC_SL1470_.jpg" width="160" height="200" alt="forza" align="center"/>
+					</a>
+					<p> Forza Horizon 4</p>
+					<p>&euro;</p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_2">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/51QL-SUFzeL._AC_.jpg" width="160" height="200" alt="Mass effect" align="center"/>
+					</a>
+					<p>Mass Effect 3</p>
+					<p>&euro;</p>				
+					<a href="#">
+					<button>aggiungi al carrello</button></a>
+				</div>
+			</div>
+			<div id="wii" class="grid_12">
+			<br>
+			<br>
+			<h1>Wii U </h1>
+				<div class="grid_3">
+					<a href= "#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/81lynxWTF4L._AC_SL1500_.jpg" width="160" height="200" alt="Zelda" align="center"/>
+					</a>
+					<p>The legend of Zelda: Breath of wild </p>
+					<p>&euro; </p>
+					<a href="#">
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_3">
+					<a href="#">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/61WpTEevovL._AC_.jpg " width="160" height="200" alt="super smash bros" align="center"/>
+					</a>
+					<p>Super Smash Bros</p>
+					<p>&euro; </p>
+					<a href="#">
+					<br>
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_3">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/91JkiB1ZaVL._AC_SL1500_.jpg" width="160" height="200" alt="just dance" align="center"/>
+					<p> Just Dance 2018 </p>
+					<p>&euro;</p>
+					<a href="#">
+					<br>
+					<button> aggiungi al carrello </button></a>
+				</div>
+				<div class=" grid_2">
+					<img src="https://images-na.ssl-images-amazon.com/images/I/71II7eJV-OL._AC_SL1374_.jpg" width="160" height="200" alt="Pokken" align="center"/>
+					<p> Pokken tournament </p>
+					<p>&euro;</p>				
+					<a href="#">
+					<br>
+					<button>aggiungi al carrello</button></a>
+				</div>
+			</div>
+		        <div class="footerSep">
+		</div><!-- .container_12 -->
+	</body>
+</html>
