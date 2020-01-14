@@ -29,26 +29,44 @@
 				EVIDENZA</b>
 			</p>
 			</div>
-
-			
-
-<!-- Peluche -->
-		<div class="offerFeatureStyle">
-			<div class="promoImg">
-				<a href="/SearchResult/QuickSearch?rootGenre=23&genre=377&TypeSorting=5&sDirection=Ascending" style="text-align:justify!important;">
+			<div class="grid_12">
+				<div class="grid_4">
+				<a href="#" style="text-align:justify!important;">
 					<img
 						src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT-WDjfv28353ZFhdj4R6z3N7J19H28trJj2PbyE_EKQOy9fSWD5lwKHPY06lsjQk5P6FvxA52WxBgeLnW6jOmPXYFWhUUMMAnVqIcotzf5&usqp=CAc" />
 				</a>
-			</div>
-			<div class="promoTxt">
-				<p><strong>Peluche</strong><br>Morbidi e simpatici, tutti da collezionare!</p>
-			</div>
-			<a class="moreButton" href="/SearchResult/QuickSearch?rootGenre=23&genre=377&TypeSorting=5&sDirection=Ascending">
-				<span>Scoprili ora!</span>
+				
+					<p><strong>Peluche</strong><br>Morbidi e simpatici, tutti da collezionare!</p>
+				
+				<a class="moreButton" href="#">
+					<span>Scoprili ora!</span>
 			</a>
-		</div>
-     <div class="footerFooter">
-	         </div>
+				</div>
+				<div class="grid_4">
+				<a href="#" style="text-align:justify!important;">
+					<img
+						src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/82362185_672755693463158_3517541300180090880_n.jpg?_nc_cat=103&_nc_ohc=UuwrEVj9UAwAX-9ozN2&_nc_ht=scontent-mxp1-1.xx&oh=563a1b14cafc42bf26eb74cd1c24708d&oe=5E8EC107" width="200" height="220"  align="center" />
+				</a>
+				
+				
+					<p><strong>Accessori</strong><br>Cuffie, sedie per i videogiochi e molto altro!</p>
+				
+				<a class="moreButton" href="#">
+					<span>Scoprili ora!</span>
+			</a>
+			</div>
+			<div class="grid_3">
+				<a href="#" style="text-align:justify!important;">
+					<img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/82037375_672776590127735_4414467489631567872_n.jpg?_nc_cat=104&_nc_ohc=xNb24dbDjioAX-iEi7v&_nc_ht=scontent-mxp1-1.xx&oh=1a6391e46f7d4ddb5706a6f3dbf37d9c&oe=5EA99869" width="200" height="200"  align="center" />
+				</a>
+				
+				
+					<p><strong>Console</strong><br>Console con videogiochi</p>
+				
+				<a class="moreButton" href="#">
+					<span>Scoprili ora!</span>
+			</a>
+			</div>
 			
 			<br>
 			<div id="PS4" class="grid_12">
