@@ -1,6 +1,26 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		    <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCY6gLaIZ6Go2C235xFxpzINi5vMEbqqi0",
+    authDomain: "gamezone-a4e71.firebaseapp.com",
+    databaseURL: "https://gamezone-a4e71.firebaseio.com",
+    projectId: "gamezone-a4e71",
+    storageBucket: "gamezone-a4e71.appspot.com",
+    messagingSenderId: "747057269136",
+    appId: "1:747057269136:web:a5a12e299b9e2db99f0b15"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
 		<title>Game Zone</title>
 		<link rel="stylesheet" type="text/css" href="stile.css" />
 		
@@ -49,7 +69,7 @@
 				</a>
 				
 				
-					<p><strong>Accessori</strong><br>Cuffie, sedie da gaming e molto altro!</p>
+					<p><strong>Accessori</strong><br>Cuffie, sedie per i videogiochi e molto altro!</p>
 				
 				<a class="moreButton" href="#">
 					<span>Scoprili ora!</span>
@@ -75,37 +95,37 @@
 					<a href="#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/815E3QgvjWL._AC_SL1500_.jpg" width="160" height="200" alt="resident evil 2" align="center"/>
 					</a>
-					<p>Resident Evil 2 </p>
-					<p>30,00&euro; </p>
+					<p>Resident evil 2 </p>
+					<p>&euro; </p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_3">
 					<a href="#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/71vyZpPynpL._AC_SL1050_.jpg" width="160" height="200" alt="Battefield: hardline" align="center"/>
 					</a>
-					<p>Battlefield: Hardline</p>
-					<p>19,99&euro; </p>
+					<p>Batterfield: hardline</p>
+					<p>&euro; </p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_3">
 					<a href="#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/81mv9u9Ue9L._AC_SL1500_.jpg" width="160" height="200" alt="Devil may cry" align="center"/>
 					</a>
-					<p> Devil May Cry 5</p>
-					<p>27.50&euro;</p>
+					<p> Devil may cry </p>
+					<p>&euro;</p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_2">
 					<a href="#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/81TYwxDpw5L._AC_SL1500_.jpg" width="160" height="200" alt="Bloodborne" align="center"/>
 					</a>
 					<p> Bloodborne </p>
-					<p>38,99&euro;</p>				
+					<p>&euro;</p>				
 					<a href="#">
-					<button>Aggiungi al carrello</button></a>
+					<button>aggiungi al carrello</button></a>
 				</div>
 			</div>
 			
@@ -118,33 +138,33 @@
 					<a href= "#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/71slieuuKFL._AC_SL1479_.jpg" width="160" height="200" alt="Far Cry" align="center"/>
 					</a>
-					<p>Far Cry 5 </p>
-					<p>49,00&euro; </p>
+					<p>Far Cry </p>
+					<p>&euro; </p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_3">
 					<a href="#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/91I8VPSP0QL._AC_SL1500_.jpg " width="160" height="200" alt="the Witcher 3" align="center"/>
 					</a>
 					<p>The Witcher 3: Wild Hunt</p>
-					<p>31,99&euro; </p>
+					<p>&euro; </p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_3">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/51yWdqSQ8xL._AC_.jpg" width="160" height="200" alt="Batman" align="center"/>
 					<p> Batman: Arkham Knight </p>
-					<p>34,99&euro;</p>
+					<p>&euro;</p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_2">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/81fX-TolieL._AC_SL1500_.jpg " width="160" height="200" alt="forza motorsport 6" align="center"/>
 					<p> Forza Motorsport 6 </p>
-					<p>29,00&euro;</p>				
+					<p>&euro;</p>				
 					<a href="#">
-					<button>Aggiungi al carrello</button></a>
+					<button>aggiungi al carrello</button></a>
 				</div>
 			</div>
 			<div id="pc" class="grid_12">
@@ -156,36 +176,36 @@
 					<img src="https://images-na.ssl-images-amazon.com/images/I/91Vk1mS1x3L._AC_.png" width="160" height="200" alt="Minecraft" align="center"/>
 					</a>
 					<p>Minecraft </p>
-					<p>29,99&euro; </p>
+					<p>&euro; </p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_3">
 					<a href="#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/81XQpkKd2wL._AC_SL1500_.jpg" width="160" height="200" alt="gta" align="center"/>
 					</a>
-					<p>Grand Theft Auto 5</p>
-					<p>26,00&euro; </p>
+					<p>GTA 5</p>
+					<p>&euro; </p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_3">
 					<a href="#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/71XRjpG98PL._AC_SL1470_.jpg" width="160" height="200" alt="forza" align="center"/>
 					</a>
 					<p> Forza Horizon 4</p>
-					<p>45,95&euro;</p>
+					<p>&euro;</p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_2">
 					<a href="#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/51QL-SUFzeL._AC_.jpg" width="160" height="200" alt="Mass effect" align="center"/>
 					</a>
 					<p>Mass Effect 3</p>
-					<p>20,99&euro;</p>				
+					<p>&euro;</p>				
 					<a href="#">
-					<button>Aggiungi al carrello</button></a>
+					<button>aggiungi al carrello</button></a>
 				</div>
 			</div>
 			<div id="wii" class="grid_12">
@@ -196,35 +216,36 @@
 					<a href= "#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/81lynxWTF4L._AC_SL1500_.jpg" width="160" height="200" alt="Zelda" align="center"/>
 					</a>
-					<p>The Legend of Zelda: Breath of the Wild </p>
-					<p>59,00&euro; </p>
+					<p>The legend of Zelda: Breath of wild </p>
+					<p>&euro; </p>
 					<a href="#">
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_3">
 					<a href="#">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/61WpTEevovL._AC_.jpg " width="160" height="200" alt="super smash bros" align="center"/>
 					</a>
 					<p>Super Smash Bros</p>
-					<p>49.99&euro; </p>
+					<p>&euro; </p>
 					<a href="#">
 					<br>
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_3">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/91JkiB1ZaVL._AC_SL1500_.jpg" width="160" height="200" alt="just dance" align="center"/>
 					<p> Just Dance 2018 </p>
-					<p>39,00&euro;</p>
+					<p>&euro;</p>
 					<a href="#">
 					<br>
-					<button> Aggiungi al carrello </button></a>
+					<button> aggiungi al carrello </button></a>
 				</div>
 				<div class=" grid_2">
 					<img src="https://images-na.ssl-images-amazon.com/images/I/71II7eJV-OL._AC_SL1374_.jpg" width="160" height="200" alt="Pokken" align="center"/>
-					<p> Pokken Tournament </p>
-					<p>50,50&euro;</p>				
+					<p> Pokken tournament </p>
+					<p>&euro;</p>				
 					<a href="#">
-					<button>Aggiungi al carrello</button></a>
+					<br>
+					<button>aggiungi al carrello</button></a>
 				</div>
 			</div>
 		        <div class="footerSep">
