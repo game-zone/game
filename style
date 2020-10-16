@@ -1,4 +1,4 @@
-	#nav, #feature, #header{
+		#nav, #feature, #header{
 				font-family: Arial, Verdana, sans-serif;
 				color: #000000;
 				text-align: center;}
@@ -17,12 +17,21 @@
 			#wii {
 				font-family: Arial, Verdana, sans-serif;
 				color: #000000;
-			    text-align: center;}
+          text-align: center;}
+      #copy {
+				font-family: Arial, Verdana, sans-serif;
+				color: #252525;
+          text-align: center;}
 			
 			#nav, #feature, .article, #footer {
-				background-color: #FFFFFF;
+				background-color: #FFFF80;
 				margin-top: 20px;
-				padding: 10px 0px 5px 0px;}
+        padding: 10px 0px 5px 0px;}
+      #copy{
+        background-color: #ffe880;
+				margin-top: 20px;
+        padding: 10px 0px 5px 0px;
+      }
 			#feature, .article {
 				height: 100px;}
 			li {
