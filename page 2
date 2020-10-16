@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Game Zone</title>
+		<link rel="stylesheet" type="text/css" href="stile.css" />
+    </head>
+    <body>
+        <div class="container_12 clearfix">
+        <div id="header" class="grid_12">
+            
+            <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/82939588_679325442806183_8738772693618262016_n.jpg?_nc_cat=110&_nc_sid=730e14&_nc_ohc=4ZZo0wFFLC8AX84iHzU&_nc_ht=scontent-mxp1-1.xx&oh=e6fa1656f2fa411276898bf0da606c09&oe=5FA91C30" alt="the analog specialists" align="center"/>
+            
+            <div id="nav">
+                <ul>
+                    <li><a href="#" class="on">HOME</a></li>
+                    <li><a href="#">PS4 </a></li>
+                    <li><a href="#">Xbox One</a></li>
+                    <li><a href="#">PC </a></li>
+                    <li><a href="#">Wii U </a></li>
+                    <li><a href="#">Prodotti</a></li>
+                    <li><a href="#"> <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/82993076_679355256136535_6022024940516016128_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=9QbEh0ujNLoAX87jzBJ&_nc_ht=scontent-mxp1-1.xx&oh=22101932a0f8ce482b2ea01a214eecc1&oe=5FAF4E4E"  width="30" height="30">  Carrello </a></li> 
+                </ul>
+            </div>
+        </div>
+        <div id="central part" class="grid_12">
+            <div id="nome" class="grid_12">
+                <p>qui ci va il titolo della pagina, che dovrebbe andare in automatico</p>
+            </div>
+            <div id="img" class="grid_3">
+                <img src="" width="160" height="200" align="center">
+            </div>    
+            <div id="descrizione" class="grid_8">
+                <p>qui ci va la descrizione del prodotto che dovrebbe andare in automatico</p>
+            </div>
+        </div>
+    </body>
+</html>
